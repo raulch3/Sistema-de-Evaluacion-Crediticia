@@ -1,5 +1,7 @@
 # Sistema de Evaluación Crediticia - Excel 365
 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+
 Desarrollé esta plantilla de scoring crediticio en Excel 365 para estandarizar el análisis de capacidad de pago, endeudamiento y datos cualitativos como años de jubilación y seguro de préstamo.
 
 Calificación del 1 al 9 por producto, score global automático y registro por cliente — todo en un solo archivo.
